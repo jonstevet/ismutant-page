@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
+.result-button {
+  background-color: rgb(35, 128, 216);
+  color: white;
+  border-radius: 8px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+}
+
+.result-text {
+  size: 48px;
+  font-weight: 800;
+  color: rgb(35, 128, 216);
+  border-radius: 8px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+}
